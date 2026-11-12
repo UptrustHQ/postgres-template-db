@@ -1,0 +1,5 @@
+packages: .
+tests: true
+
+package postgres-template-db
+  ghc-options: -Werror
